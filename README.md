@@ -27,4 +27,8 @@ Use of `Git` for version control.<br>
 
 ### Website before optimization :
 
-1. `https://nina-carducci.github.io/`
+`https://nina-carducci.github.io/`
+
+### Website after optimization :
+
+
